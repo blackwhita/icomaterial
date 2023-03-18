@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:gem/potassium_nitrate/blocks/medium_potassium_nitrate_bud"
-  }
-}

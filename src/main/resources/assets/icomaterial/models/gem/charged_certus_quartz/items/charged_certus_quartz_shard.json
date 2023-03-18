@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:gem/charged_certus_quartz/items/charged_certus_quartz_shard"
-  }
-}

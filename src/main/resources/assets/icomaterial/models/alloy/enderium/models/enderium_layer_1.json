@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:alloy/enderium/models/enderium_layer_1"
-  }
-}

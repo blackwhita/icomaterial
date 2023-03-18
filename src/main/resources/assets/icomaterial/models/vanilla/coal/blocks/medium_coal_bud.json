@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:vanilla/coal/blocks/medium_coal_bud"
-  }
-}

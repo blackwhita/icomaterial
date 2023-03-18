@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:vanilla/copper/items/crushed_copper_ore"
-  }
-}

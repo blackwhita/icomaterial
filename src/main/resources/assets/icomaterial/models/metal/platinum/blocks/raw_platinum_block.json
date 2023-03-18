@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:metal/platinum/blocks/raw_platinum_block"
-  }
-}

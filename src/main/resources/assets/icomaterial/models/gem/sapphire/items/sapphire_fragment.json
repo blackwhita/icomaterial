@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:gem/sapphire/items/sapphire_fragment"
-  }
-}

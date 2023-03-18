@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:alloy/fiery/models/fiery_layer_2"
-  }
-}

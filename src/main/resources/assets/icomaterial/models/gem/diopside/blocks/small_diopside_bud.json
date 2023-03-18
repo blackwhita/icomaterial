@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:gem/diopside/blocks/small_diopside_bud"
-  }
-}

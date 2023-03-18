@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:alloy/refined_obsidian/models/refined_obsidian_layer_2"
-  }
-}

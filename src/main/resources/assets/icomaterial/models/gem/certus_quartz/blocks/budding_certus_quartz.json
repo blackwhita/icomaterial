@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:gem/certus_quartz/blocks/budding_certus_quartz"
-  }
-}

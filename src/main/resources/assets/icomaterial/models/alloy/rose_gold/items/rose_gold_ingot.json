@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:alloy/rose_gold/items/rose_gold_ingot"
-  }
-}

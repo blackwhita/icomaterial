@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "icomaterial:alloy/graphite/models/graphite_layer_1"
-  }
-}
