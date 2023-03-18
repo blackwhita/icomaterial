@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:gem/peridot/blocks/peridot_cluster_shard_block"
+  }
+}

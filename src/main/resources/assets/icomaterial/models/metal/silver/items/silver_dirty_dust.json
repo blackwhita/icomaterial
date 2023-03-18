@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:metal/silver/items/silver_dirty_dust"
+  }
+}

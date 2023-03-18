@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:alloy/tainted_gold/items/tainted_gold_dust"
+  }
+}

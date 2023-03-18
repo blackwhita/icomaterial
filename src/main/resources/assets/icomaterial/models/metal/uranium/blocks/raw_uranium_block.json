@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:metal/uranium/blocks/raw_uranium_block"
+  }
+}

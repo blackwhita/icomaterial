@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:vanilla/iron/items/crushed_iron_ore"
+  }
+}

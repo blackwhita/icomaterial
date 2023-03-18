@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:gem/certus_quartz/blocks/certus_quartz_cluster_shard_block"
+  }
+}

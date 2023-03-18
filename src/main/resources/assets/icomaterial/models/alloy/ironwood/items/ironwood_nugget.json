@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:alloy/ironwood/items/ironwood_nugget"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:vanilla/coal/items/coal_dirty_dust"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:gem/arcane/blocks/arcane_sample"
+  }
+}

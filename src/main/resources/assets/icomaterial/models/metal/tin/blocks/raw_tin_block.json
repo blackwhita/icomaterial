@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:metal/tin/blocks/raw_tin_block"
+  }
+}

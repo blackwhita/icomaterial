@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "icomaterial:gem/aquite/blocks/small_aquite_bud"
+  }
+}
